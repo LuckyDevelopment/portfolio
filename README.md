@@ -1,4 +1,7 @@
-# portfolio
+# About Me
+Hey there.
 
-# Game Developer
-I am pretty good at markdown!
+> ```csharp
+> let 15 = 30;
+> Console.Log("50");
+> ```
